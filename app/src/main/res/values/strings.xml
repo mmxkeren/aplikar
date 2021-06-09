@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Aplikar</string>
+    <string name="start">Start</string>
+    <string name="petunjuk">Petunjuk</string>
+    <string name="karier">Karier</string>
+    <string name="tentang_aplikar">Tentang APLIKAR</string>
+    <string name="biografi">Biografi</string>
+    <string name="aplikar">APLIKAR</string>
+    <string name="tx_biografi">Wiwik Widati, S.Pd Lahir di Lamongan pada tanggal 5 Pebruari 1973 dari pasangan Fathur Rohman dan Maimunah. Sejak tahun 1992 tinggal di Malang dan mulai menempuh pendidikan di S-1 di IKIP Negeri Malang jurusan Teknologi Pendidikan dan pada tahun 2016 Lulus S-1 Jurusan Bimbingan dan Konseling di Universitas Kanjuruhan, sedangkan saat ini masih menempuh pendidikan Magister Program Pascasarjana S-2 Jurusan Bimbingan dan Konseling di Universitas Negeri Malang. Setelah lulus S-1 IKIP Negeri Malang penulis mengabdikan diri sebagai pengajar Honorer di SMA Islam Almaarif Singosari dan diangkat sebagai PNS tahun 2008 di SMA Negeri 1 Singosari hingga sekarang sebagai guru Bimbingan dan Konseling. Penulis mengembangkan Aplikar ini karena rasa kepedulian terhadap kesulitan anak didik dalam menghadapi pilihan kariernya.</string>
+    <string name="foto">foto</string>
+    <string name="menu">Menu Utama</string>
+    <string name="judul_tentang_aplikar">Sekilas Tentang APLIKAR</string>
+    <string name="tentang">APLIKAR Merupakan aplikasi perencanaan karier yang dapat membantu siswa dalam menentukan kesesuaian pilihan kariernya terutama pada siswa SMA. Faktor-faktor yang mempengaruhi pilihan karier siswa adalah bagaimana kepribadian yang dimiliki siswa, keahlian dan ketrampilan serta minat mata pelajaran. Landasan yang digunakan dalam APLIKAR adalah Teori Holland. Hasil (output) yang disajikan pada APLIKAR antara lain mata pelajaran yang disukai, tipe kepribadian dominan, keahlian dan keterampilan, pekerjaan dan prodi yang berhubungan dengan pekerjaan yang direkomendasikan. Dengan demikian hasil akhir APLIKAR adalah merupakan satu kesatuan kesimpulan dari faktor-faktor yang mempengaruhi pilihan karier tersebut, sehingga siswa memperoleh kesimpulan tentang kesesuaian pilihan kariernya.</string>
+    <string name="judul_petunjuk">Petunjuk Karier</string>
+    <string name="tahap_1_desc">Tahap 1 berisikan pertanyaan tentang mata pelajaran yang disukai. Jawaban tentang mata pelajaran yang diminati atau disukai dapat diisi sebanyak tiga jawaban secara urut.</string>
+    <string name="tahap_2_desc">berisikan pertanyaan-pertanyaan mengenai karakter pribadi yang dikelompokkan menjadi 6 kategori yaitu Realistik, Investigasi, Artistik, Sosial, Pengusaha dan Konveksional. Setiap pertanyaan menunjukkan karakteristik siswa yang berbeda-beda. Siswa diminta memilih 1 pernyataan pada setiap 6 pilihan yang muncul.</string>
+    <string name="tahap_3_desc">Tahap 3 merupakan tahap terakhir dalam menentukan pilihan karier. Hasil dari tahap ketiga diperoleh dari perhitungan tahap 1 dan tahap 2. Setelah ditentukan Jenis kepribadian, maka pertanyaan keahlian/keterampilan yang muncul adalah dari jenis kepribadian yang paling sesuai dan sesuai berdasarkan tipe pekerjaan. Siswa diminta untuk memilih satu atau lebih keahlian yang dimilikinya</string>
+    <string name="identitas_siswa">Identitas Siswa</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama">nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="tahap_1">Tahap 1</string>
+    <string name="soal_tahap_1">Urutkan tiga mata pelajaran yang anda sukai:</string>
+    <string name="tahap_2">Tahap 2</string>
+    <string name="tahap_3">Tahap 3</string>
+    <string name="karakter">Karakter</string>
+    <string name="soal_3">Pilihlah keterampilan yang anda sukai berdasarkan pilihan yang disediakan (pilihan boleh lebih dari satu):</string>
+    <string name="hasil">Hasil</string>
+    <string name="soal_tahap_2">Pilihlah 1 jawaban dibawah ini yang paling sesuai dengan dirimu:</string>
+
+    <string-array name="mata_pelajaran">
+        <item>Mata Pelajaran</item>
+        <item>Pendidikan Agama</item>
+        <item>PPKn</item>
+        <item>Bahasa Indonesia</item>
+        <item>Matematika</item>
+        <item>Bahasa Inggris</item>
+        <item>Sejarah</item>
+        <item>Penjas Orkes</item>
+        <item>Prakarya</item>
+        <item>Seni dan Budaya</item>
+        <item>Bahasa Daerah</item>
+        <item>Fisika</item>
+        <item>Kimia</item>
+        <item>Biologi</item>
+        <item>Komputer(TIK)</item>
+        <item>Antropologi</item>
+        <item>Sosiologi</item>
+        <item>Geografi</item>
+        <item>Ekonomi</item>
+        <item>Bahasa Asing</item>
+    </string-array>
+</resources>
